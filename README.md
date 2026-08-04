@@ -5,27 +5,94 @@ AI Engineer • Python • LLMs • RAG • FastAPI • OpenAI
 </h3>
 
 <p align="center">
-Building production-ready AI applications with modern backend technologies and Large Language Models.
+Building production-ready AI applications powered by Large Language Models.
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishalChoudhary-git">
-    <img src="https://komarev.com/ghpvc/?username=vishalchoudhary-git&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+<a href="https://github.com/vishalChoudhary-git">
+<img src="https://komarev.com/ghpvc/?username=vishalchoudhary-git&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/vishalChoudhary-git">
+<img src="https://img.shields.io/github/followers/vishalChoudhary-git?label=Followers&style=flat"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Software Engineer transitioning into AI Engineering with a passion for building production-ready AI systems.
+I'm a Software Engineer transitioning into **AI Engineering**, passionate about building production-ready AI systems using modern backend technologies and Large Language Models.
 
 - 🐍 Building scalable AI applications with **Python**
-- 🤖 Working with **LLMs, RAG, AI Agents & OpenAI**
-- 🚀 Building open-source AI tools
-- 💡 Interested in AI infrastructure and production-grade backend systems
-- 🌱 Currently learning **LangGraph, MCP, Azure AI & AWS Bedrock**
+- 🤖 Experienced with **LLMs, RAG, OpenAI & AI Agents**
+- 🚀 Building production-ready AI applications
+- 📦 Creating open-source Python packages
+- 🌱 Currently exploring **LangGraph, MCP, Azure AI & AWS Bedrock**
 - 📍 Maharashtra, India
+
+---
+
+# 🚀 Featured Project
+
+## 🤖 AI Knowledge Assistant
+
+A production-ready AI-powered document chat application built using Retrieval-Augmented Generation (RAG).
+
+### 🌐 Live Demo
+
+**https://ai-knowledge-assistant-app.vercel.app/**
+
+### 💻 Repository
+
+**https://github.com/vishalChoudhary-git/ai-knowledge-assistant-app**
+
+### ✨ Features
+
+- 📄 Upload and chat with PDF documents
+- 🤖 OpenAI-powered intelligent responses
+- 🔍 Semantic document search
+- 💬 Streaming AI responses
+- 🧠 Conversation memory
+- 📚 Source attribution
+- ⚡ Fast and responsive ChatGPT-like UI
+- 🔒 Secure authentication
+
+### 🛠 Tech Stack
+
+React • TypeScript • Node.js • Express • OpenAI • Redis • ChromaDB • Docker
+
+---
+
+# 📂 Other Projects
+
+### 📄 AI Document Intelligence
+
+Production-ready Python SDK for intelligent PDF parsing optimized for LLM applications.
+
+**Highlights**
+
+- Intelligent PDF Parsing
+- OCR Support
+- Markdown Extraction
+- Table Detection
+- Image Extraction
+- Async API
+- Clean Python SDK
+- PyPI Package
+
+---
+
+### ⚡ AI Platform
+
+Enterprise-ready backend platform for AI applications.
+
+- FastAPI
+- PostgreSQL
+- Redis
+- Authentication
+- Background Workers
+- Docker
 
 ---
 
@@ -34,14 +101,10 @@ I'm a Software Engineer transitioning into AI Engineering with a passion for bui
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
 </p>
 
 ### AI & LLM
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
 
 - OpenAI
 - LangChain
@@ -55,78 +118,26 @@ I'm a Software Engineer transitioning into AI Engineering with a passion for bui
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
 </p>
 
-- ChromaDB
+ChromaDB
 
-### DevOps & Cloud
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,azure" />
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions,git"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 📄 AI Document Intelligence
-
-Production-ready Python SDK for intelligent PDF parsing optimized for LLM applications.
-
-### Highlights
-
-- PDF Parsing
-- OCR Support
-- Markdown Extraction
-- Table Detection
-- Image Extraction
-- Async API
-- PyPI Package
-- Clean Python SDK
-
----
-
-## 🤖 AI Knowledge Assistant
-
-Enterprise-grade Retrieval-Augmented Generation (RAG) chatbot.
-
-### Features
-
-- Hybrid Search
-- Semantic Retrieval
-- Streaming Responses
-- Conversation Memory
-- Redis Cache
-- Source Attribution
-- OpenAI Integration
-
----
-
-## ⚡ AI Platform
-
-Scalable backend platform powering AI applications.
-
-### Includes
-
-- Authentication
-- Background Workers
-- Document Processing
-- Storage Layer
-- PostgreSQL
-- Redis
-- FastAPI
-- Docker
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -167,11 +178,11 @@ Scalable backend platform powering AI applications.
 
 # 🎯 2026 Goals
 
-- ✅ Publish production-ready Python packages
-- 🚀 Build impactful open-source AI projects
+- 🚀 Publish production-ready Python packages
+- 🤖 Build impactful open-source AI projects
 - ⭐ Reach 100+ GitHub stars
 - 🤝 Contribute to leading AI open-source projects
-- 📦 Develop enterprise-ready AI platforms
+- 📦 Build enterprise AI platforms
 
 ---
 
@@ -192,9 +203,9 @@ Scalable backend platform powering AI applications.
 ---
 
 <p align="center">
+⭐ If you like my work, consider starring my repositories.
+</p>
 
-### ⭐ If you find my projects helpful, consider giving them a star!
-
+<p align="center">
 Building intelligent software, one commit at a time 🚀
-
 </p>

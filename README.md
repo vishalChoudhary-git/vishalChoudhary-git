@@ -5,155 +5,204 @@ AI Engineer • Python • LLMs • RAG • FastAPI • OpenAI
 </h3>
 
 <p align="center">
-Building production-ready AI applications that solve real-world problems.
+Building production-ready AI applications with modern backend technologies and Large Language Models.
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishalChoudhary-git">
+    <img src="https://komarev.com/ghpvc/?username=vishalchoudhary-git&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Software Engineer transitioning into **AI Engineering**
-- 🐍 Building scalable applications with **Python**
-- 🤖 Passionate about **Generative AI, LLMs, RAG and AI Agents**
-- 🚀 Creating open-source AI tools and production-ready SDKs
-- 🌱 Currently exploring **Agentic AI, MCP, LangGraph and Azure AI**
+I'm a Software Engineer transitioning into AI Engineering with a passion for building production-ready AI systems.
+
+- 🐍 Building scalable AI applications with **Python**
+- 🤖 Working with **LLMs, RAG, AI Agents & OpenAI**
+- 🚀 Building open-source AI tools
+- 💡 Interested in AI infrastructure and production-grade backend systems
+- 🌱 Currently learning **LangGraph, MCP, Azure AI & AWS Bedrock**
 - 📍 Maharashtra, India
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
+</p>
 
 ### AI & LLM
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
 - OpenAI
 - LangChain
 - LangGraph
-- RAG
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
 - Vector Databases
 - Embeddings
-- Prompt Engineering
-- AI Agents
 
 ### Backend
 
-- FastAPI
-- Flask
-- Node.js
-- Express.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
 
 ### Databases
 
-- PostgreSQL
-- Redis
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
 - ChromaDB
 
-### Cloud & DevOps
+### DevOps & Cloud
 
-- Docker
-- GitHub Actions
-- AWS
-- Azure AI
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,azure" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 ## 📄 AI Document Intelligence
 
 Production-ready Python SDK for intelligent PDF parsing optimized for LLM applications.
 
-**Highlights**
+### Highlights
 
 - PDF Parsing
 - OCR Support
 - Markdown Extraction
 - Table Detection
+- Image Extraction
 - Async API
 - PyPI Package
+- Clean Python SDK
 
 ---
 
 ## 🤖 AI Knowledge Assistant
 
-Production-grade Retrieval-Augmented Generation (RAG) chatbot.
+Enterprise-grade Retrieval-Augmented Generation (RAG) chatbot.
 
-**Features**
+### Features
 
 - Hybrid Search
-- Semantic Search
+- Semantic Retrieval
 - Streaming Responses
 - Conversation Memory
 - Redis Cache
 - Source Attribution
+- OpenAI Integration
 
 ---
 
 ## ⚡ AI Platform
 
-Enterprise-ready backend platform for AI applications.
+Scalable backend platform powering AI applications.
 
-**Includes**
+### Includes
 
 - Authentication
-- Document Processing
 - Background Workers
-- Storage
+- Document Processing
+- Storage Layer
 - PostgreSQL
 - Redis
 - FastAPI
+- Docker
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalChoudhary-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishalchoudhary-git&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalChoudhary-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalchoudhary-git&layout=compact&theme=github_dark&hide_border=true"/>
 
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vishalchoudhary-git&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalchoudhary-git&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishalchoudhary-git&theme=algolia&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-- Multi-Agent Systems
-- MCP (Model Context Protocol)
-- Agentic AI
-- Azure AI
-- AWS Bedrock
-- Production LLM Systems
+- 🤖 Multi-Agent Systems
+- 🔗 Model Context Protocol (MCP)
+- 🧠 Agentic AI
+- ☁️ Azure AI
+- ☁️ AWS Bedrock
+- ⚡ Production LLM Systems
 
 ---
 
 # 🎯 2026 Goals
 
 - ✅ Publish production-ready Python packages
-- ✅ Build open-source AI tools
-- 🚀 Reach 100+ GitHub stars
-- 🚀 Contribute to popular AI projects
-- 🚀 Build enterprise AI platforms
+- 🚀 Build impactful open-source AI projects
+- ⭐ Reach 100+ GitHub stars
+- 🤝 Contribute to leading AI open-source projects
+- 📦 Develop enterprise-ready AI platforms
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vish96/
-- 📧 Email: dev.vishal.choudhary@gmail.com
-- 🌐 Portfolio (Coming Soon)
+<p>
+
+<a href="https://www.linkedin.com/in/vish96/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:dev.vishal.choudhary@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider starring my repositories.
+### ⭐ If you find my projects helpful, consider giving them a star!
+
+Building intelligent software, one commit at a time 🚀
 
 </p>

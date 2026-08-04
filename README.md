@@ -154,14 +154,6 @@ Scalable backend platform powering AI applications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishalchoudhary-git&theme=algolia&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
 # 📚 Currently Learning
 
 - 🤖 Multi-Agent Systems
